@@ -33,14 +33,14 @@ Users should be able to:
 
 ### Screenshots
 
-![]()
+![](https://github.com/dusvimarin/FEM-column-preview-card-component-main/blob/main/screenshots/desktop.png)
 
-![]()
+![](https://github.com/dusvimarin/FEM-column-preview-card-component-main/blob/main/screenshots/mobile.jpg)
 
 
 ### Links
 
-[My Solution]()
+[My Solution](https://dusvimarin.github.io/FEM-column-preview-card-component-main/)
 
 
 ## My process
