@@ -22,7 +22,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items:center;
-    background-color: var(--neutral-white);
+    background-color:var(--neutral-light-white);
 }
 .container{
     margin-top: 150px;
