@@ -35,7 +35,7 @@ Users should be able to:
 
 ![](https://github.com/dusvimarin/FEM-column-preview-card-component-main/blob/main/screenshots/desktop.png)
 
-![](https://github.com/dusvimarin/FEM-column-preview-card-component-main/blob/main/screenshots/mobile.jpg)
+![](https://github.com/dusvimarin/FEM-column-preview-card-component-main/blob/main/screenshots/mobile.png)
 
 
 ### Links
