@@ -33,14 +33,14 @@ Users should be able to:
 
 ### Screenshots
 
-![](https://github.com/dovelym/FEM-column-preview-card-component-main/blob/main/screenshots/desktop.png)
+![](https://github.com/dovelm/FEM-column-preview-card-component-main/blob/main/screenshots/desktop.png)
 
-![](https://github.com/dovelym/FEM-column-preview-card-component-main/blob/main/screenshots/mobile.png)
+![](https://github.com/dovelm/FEM-column-preview-card-component-main/blob/main/screenshots/mobile.png)
 
 
 ### Links
 
-[My Solution](https://dovelym.github.io/FEM-column-preview-card-component-main/)
+[My Solution](https://dovelm.github.io/FEM-column-preview-card-component-main/)
 
 
 ## My process
@@ -66,4 +66,4 @@ I learned to use elements flexbox, layout of 1000px and mobile.
 - Google chome/tools/development tools
 
 ## Author
-[@dusvy_m](https://github.com/dovelym)
+[@dusvy_m](https://github.com/dovelm)
